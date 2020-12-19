@@ -1,4 +1,4 @@
 # `PROGRAMMING`
->***Zaporozhets Diana***
+>**Zaporozhets Diana**
 >
->***KIT-320***
+>**KIT-320**
